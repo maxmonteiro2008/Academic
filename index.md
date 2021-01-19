@@ -1,28 +1,28 @@
 # Welcome to Maxwell's Academic projects GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/maxmonteiro2008/Academic/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Projects:
 
-1. [LoRa Network  planning]  (https://github.com/maxmonteiro2008/Academic/tree/main/LoRaNetPlanning.pdf)
-2. 
+1. [LoRa Network  planning  Mestrado]  (https://github.com/maxmonteiro2008/Academic/tree/main/LoRaNetPlanning.pdf)
+2.  [VcpE AgentX  TCC]  (https://github.com/maxmonteiro2008/Academic/tree/main/LoRaNetPlanning.pdf)
+3. [Implementação do eSONA  Mestrado]  (https://github.com/maxmonteiro2008/Academic/tree/main/LoRaNetPlanning.pdf)
 
 
 ## Eventos de Interesse:
 
 ### Networking
- 1. [Nof(Qualis B2)] (https://nof2021.dnac.org/)
+ 1. [Nof] (https://nof2021.dnac.org/)  (Qualis B2)
  2. [AINA (Qualis A2)]  IEEE International Conference on Advanced Information Networking and Applications
  3. [ANCS(Qualis A2)]
- ANTS B1 IEEE International Conference on Advanced Networks and Telecommuncations Systems B1
- ANCS	ACM/IEEE Symposium on Architectures for Networking and Communications Systems	2	Relevante	18	A4
- NETSOFT	IEEE Conference on Network Softwarization	2	Relevante	21	A3
- ACMSOCC	ACM Symposium on Cloud Computing	2	Relevante	35	A1
- CLOSER	International Conference on Cloud Computing and Services Science	2	Relevante	16	A4
- CloudCom	IEEE International Conference on Cloud Computing Technology and Science	2	Top20	25	A2
- SBrT	Simpósio Brasileiro de Telecomunicações e Processamento de Sinais	2	Relevante	3	B4
+ 4. ANTS B1 IEEE International Conference on Advanced Networks and Telecommuncations Systems B1
+ 5. ANCS	ACM/IEEE Symposium on Architectures for Networking and Communications Systems	2	Relevante	18	A4
+ 6. NETSOFT	IEEE Conference on Network Softwarization	2	Relevante	21	A3
+ 7.  ACMSOCC	ACM Symposium on Cloud Computing	2	Relevante	35	A1
+ 8. CLOSER	International Conference on Cloud Computing and Services Science	2	Relevante	16	A4
+ 9. CloudCom	IEEE International Conference on Cloud Computing Technology and Science	2	Top20	25	A2
+ 10. SBrT	Simpósio Brasileiro de Telecomunicações e Processamento de Sinais	2	Relevante	3	B4
  CITS	International Conference on Computer, Information, and Telecommunication Systems	2	Relevante	10	B2
  ICT	International Conference on Telecommunications	2	Relevante	17	A4
  ICUMT	International Conference on Ultra Modern Telecommunications	2	Relevante	14	B1
