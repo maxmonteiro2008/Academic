@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Projects:
 
-1. [LoRa Network  planning]  (https://github.com/maxmonteiro2008/Academic/ /tree/main/LoRaNetPlanning.pdf)
+1. [LoRa Network  planning]  (https://github.com/maxmonteiro2008/Academic/tree/main/LoRaNetPlanning.pdf)
 2. 
 
 
